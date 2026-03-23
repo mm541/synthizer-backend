@@ -19,7 +19,7 @@ Production-style Spring Boot backend built with Java 21 and Maven.
 ## Current Structure
 
 ```text
-src/main/java/com/moa/synthizer_backend
+src/main/java/com/moa/synthizerbackend
 ├── auth
 ├── common
 ├── health
